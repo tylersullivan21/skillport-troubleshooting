@@ -1,0 +1,30 @@
+.main-content{
+    margin-top: 70px;
+}
+.title{
+    margin-bottom: 15px;
+    border-bottom: 1px solid black;
+}
+.title h1{
+    font-size: 34px;
+}
+
+.content{
+    margin-top: 50px;
+}
+.content h4{
+    font-size: 20px;
+    margin-bottom:20px;
+}
+.content p{
+    padding-left: 25px;
+    margin-bottom:20px;
+}
+.image{
+    max-width: 400px;
+    margin-bottom: 50px;
+}
+.image-full{
+    max-width: 550px;
+    margin-bottom: 65px;
+}
