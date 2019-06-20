@@ -11,10 +11,12 @@
 
 .content{
     margin-top: 50px;
+    
 }
 .content h4{
     font-size: 20px;
     margin-bottom:20px;
+    border-bottom: 1px solid black;
 }
 .content p{
     padding-left: 25px;
@@ -26,7 +28,13 @@
 }
 .image-full{
     max-width: 550px;
+}
+figure{
     margin-bottom: 65px;
+}
+figcaption{
+    margin-top: 5px;
+    font-size: 12px;
 }
 .modal-body .modal-image{
 width: 100%;
