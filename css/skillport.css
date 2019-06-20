@@ -3,7 +3,6 @@
 }
 .title{
     margin-bottom: 15px;
-    border-bottom: 1px solid black;
 }
 .title h1{
     font-size: 34px;
@@ -25,9 +24,11 @@
 .image{
     max-width: 400px;
     margin-bottom: 50px;
+    border: 1px solid #b9b8b8;
 }
 .image-full{
     max-width: 550px;
+    border: 1px solid #b9b8b8;
 }
 figure{
     margin-bottom: 65px;
@@ -36,6 +37,9 @@ figcaption{
     margin-top: 5px;
     font-size: 12px;
 }
-.modal-body .modal-image{
+.modal-img{
 width: 100%;
+}
+.modal-dialog{
+    max-width: 800px;
 }
