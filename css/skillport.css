@@ -44,9 +44,9 @@ width: 100%;
     max-width: 800px;
 }
 #firstmodal .modal-dialog{
-    max-height: 94vh;
-    max-width: fit-content;
-    min-height: auto;
+  
+    max-width: 600px;
+   
 
 }
 
