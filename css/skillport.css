@@ -43,6 +43,12 @@ width: 100%;
 .modal-dialog{
     max-width: 800px;
 }
+#firstmodal .modal-dialog{
+    max-height: 94vh;
+    max-width: fit-content;
+    min-height: auto;
+
+}
 
 img:hover {
     cursor: pointer;
