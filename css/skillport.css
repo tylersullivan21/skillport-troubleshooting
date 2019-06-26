@@ -22,11 +22,12 @@
     margin-bottom:20px;
 }
 .image{
+    width: 100%;
     max-width: 400px;
-    margin-bottom: 50px;
     border: 1px solid #b9b8b8;
 }
 .image-full{
+    width: 100%;
     max-width: 550px;
     border: 1px solid #b9b8b8;
 }
