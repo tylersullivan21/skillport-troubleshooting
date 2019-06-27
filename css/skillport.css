@@ -1,6 +1,4 @@
-.main-content{
-    margin-top: 70px;
-}
+
 .title{
     margin-bottom: 15px;
 }
@@ -53,4 +51,14 @@ width: 100%;
 
 img:hover {
     cursor: pointer;
+}
+.modal-title{
+    display: inline;
+}
+
+/*****************************************/
+    /*overwriting corev style*/
+/****************************************/
+.modal-dialog.modal-dialog-centered .close{
+    min-width: 1em;
 }
